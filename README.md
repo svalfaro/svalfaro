@@ -14,14 +14,14 @@ to convert data-driven and user-focused designs into live web applications.
    };
 ```
 
+# stats <img src="https://user-images.githubusercontent.com/37648600/171544271-f421e353-d51f-401b-8d27-7aecb35eb1dc.gif" width="5%"/>
+<!-- ![Sheila's's GitHub stats](https://github-readme-stats.vercel.app/api?username=svalfaro&show_icons=true&theme=vue-dark) -->
+[![Sheila's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svalfaro&layout=compact)](https://github.com/svalfaro/github-readme-stats)
+
+
 # connect with me <img src="https://user-images.githubusercontent.com/37648600/171537770-be6d1d1a-8079-4f80-bc3b-668f49f0b222.gif" width="5%"/>
 -----
 
 <a href="mailto:sheilavalfaro@gmail.com"><img src="https://user-images.githubusercontent.com/37648600/171533313-bc22b2f5-f063-4d8f-ad86-725f240a2519.svg" width="7%"/></a>
 <a href="https://twitter.com/Isedbrrrr"><img src="https://user-images.githubusercontent.com/37648600/171534018-ea35a271-7356-44b9-8c74-f398545a3bb0.svg" width="7%"/></a>
 <a href="https://www.linkedin.com/in/sheila-alfaro-2017a3193/"><img src="https://user-images.githubusercontent.com/37648600/171534249-58f8c73a-4c1a-4896-9124-33d563b27cfb.svg" width="7%"/></a>
-
-
-# stats <img src="https://user-images.githubusercontent.com/37648600/171544271-f421e353-d51f-401b-8d27-7aecb35eb1dc.gif" width="5%"/>
-<!-- ![Sheila's's GitHub stats](https://github-readme-stats.vercel.app/api?username=svalfaro&show_icons=true&theme=vue-dark) -->
-[![Sheila's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svalfaro&layout=compact)](https://github.com/svalfaro/github-readme-stats)
