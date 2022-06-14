@@ -16,7 +16,7 @@ to convert data-driven and user-focused designs into live web applications.
 
 # stats <img src="https://user-images.githubusercontent.com/37648600/171544271-f421e353-d51f-401b-8d27-7aecb35eb1dc.gif" width="5%"/>
 <!-- ![Sheila's's GitHub stats](https://github-readme-stats.vercel.app/api?username=svalfaro&show_icons=true&theme=vue-dark) -->
-[![Sheila's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svalfaro&count_private=true)](https://github.com/svalfaro/github-readme-stats)
+[![Sheila's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svalfaro&layout=compact&count_private=true)](https://github.com/svalfaro/github-readme-stats)
 
 
 # connect with me <img src="https://user-images.githubusercontent.com/37648600/171537770-be6d1d1a-8079-4f80-bc3b-668f49f0b222.gif" width="5%"/>
