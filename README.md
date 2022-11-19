@@ -4,18 +4,6 @@ My name is Sheila. I am a ***full-stack engineer*** who specializes in front-end
 to convert data-driven and user-focused designs into live web applications. 
 
 
-
-  
-```js
-  const AboutMe = {
-    name: 'Sheila Alfaro',
-    pronouns: ['She', 'Her'],
-    frontEnd: ['HTML', 'CSS', 'JavaScript', 'React'],
-    backEnd: ['Node.js', 'PHP', 'Flask'],
-    "ask me": ['Web Development', 'Accessibility', 'User Experience', 'Video Games', 'Literature'],
-   };
-```
-
 # tools for trade
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,6 +14,7 @@ to convert data-driven and user-focused designs into live web applications.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
