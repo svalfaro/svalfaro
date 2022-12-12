@@ -1,7 +1,7 @@
 # hey there :wave:
 My name is Sheila. 
 
-As a ***Software Engineer*** specializing in Front-End development, I am passionate about creating aesthetically appealing applications that deliver valuable content to every users. With a strong skillset in HTML, CSS, and JavaScript, and the expertise to use the MERN stack, I convert data-driven, user-focused designs into engaging, functional web applications.
+As a ***Software Engineer*** specializing in Front-End development, my ultimate goal is building aesthetically appealing applications that deliver valuable content to every users. During my time at New Jersey Institute of Technology, I gained a strong foundation in Computer Science principles, as well as hands-on experience with various programming languages and software development methodologies. With a strong skillset in HTML, CSS, and JavaScript, and the expertise to use the MERN stack, I convert data-driven, user-focused designs into engaging, functional web applications.
 
 I also induldge in creative writing from time to time. 
 
