@@ -1,7 +1,7 @@
 # hey there :wave:
 My name is Sheila. 
 
-As a ***Software Engineer*** specializing in Front-End development, my ultimate goal is to build user-friendly applications that provide valuable and engaging content to every user; to build applications that not only look good, but also deliver a seamless and enjoyable user experience.
+As a ***Software Engineer*** specializing in Front-End development, my ultimate goal is to build user-friendly applications that provide valuable and engaging content to every user.
 
 I also induldge in creative writing from time to time. 
 
